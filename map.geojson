@@ -267,7 +267,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "road": "true"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -288,7 +290,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "road": "true"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -305,7 +309,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "road": "true"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -322,7 +328,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "road": "true"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -339,7 +347,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "road": "true"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -356,7 +366,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "road": "true"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -413,7 +425,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "road": "true"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -501,7 +515,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "road": "true"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -518,7 +534,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "road": "true"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
